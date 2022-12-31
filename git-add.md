@@ -2,7 +2,7 @@
 
 *Add files to staging area.*
 
-## `git add --all`
+## `git add --all` or `git add .`
 
 Add all files.
 
