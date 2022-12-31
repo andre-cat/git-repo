@@ -1,9 +1,9 @@
 # `git commit`
 
-*Saves the changes from the staging area to the repository.*
+*Commit the changes from the staging area :pencil: to the repository.*
 
-## `git commit --message "message"` [^1]
+## `git commit --message "message"` [^m]
 
-Commit with message
+Commit with message.
 
-[^1]: --message = -m
+[^m]: --message = -m

@@ -4,8 +4,8 @@
 
 ## `git show file-name`
 
-Shows this changes for specified file.
+Shows this changes for given file.
 
 ## `git show commit-code`
 
-Shows this changes for specified commit.
+Shows this changes for given commit.

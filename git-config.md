@@ -15,5 +15,4 @@ Set user email.
 Show the list of all settings.
 
 [^flags]: Flags to configure:
-
     - --global: configure for all git bash.
