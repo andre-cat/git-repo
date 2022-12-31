@@ -1,3 +1,3 @@
 # `git init`
 
-*Start a new repository.*
+*Starts a new repository.*

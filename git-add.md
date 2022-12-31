@@ -8,4 +8,4 @@ Add all files.
 
 ## `git add file-name`
 
-Add a specified file.
+Add the specified file.

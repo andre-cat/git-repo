@@ -2,11 +2,11 @@
 
 *Configure git settings.*
 
-## `git config user.name "name"`
+## `git config user.name "user-name"`
 
 Set username.
 
-## `git config user.name "name@mail.com"`
+## `git config user.email "user-name@mail.com"`
 
 Set user email.
 

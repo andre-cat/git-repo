@@ -1,7 +1,7 @@
 # `git log`
 
-*Show all commits.*
+*Shows all commits.*
 
 ## `git log file-name`
 
-Show log for specified file.
+Shows this for the specified file.

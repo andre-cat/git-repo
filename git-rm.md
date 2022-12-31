@@ -4,4 +4,4 @@
 
 ## `git rm --cached file-name`
 
-Remove specified file from staging area.
+Remove the specified file from staging area.
