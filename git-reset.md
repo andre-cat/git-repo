@@ -1,11 +1,17 @@
 # `git reset`
 
-Reset working directory :open_file_folder: (delete changes).
+_Reset current head._
+
+## **_Default_**
+
+```git
+git reset --mixed
+```
 
 ## `git reset --hard`
 
-Reset this and also reset staging area :pencil:.
+Reset working directory :open_file_folder: and staging area :pencil:.
 
 ## `git reset --soft`
 
-Reset this but does not reset staging area :pencil:.
+Reset staging area :pencil:.

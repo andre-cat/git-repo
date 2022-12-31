@@ -1,6 +1,12 @@
 # `git log`
 
-*Log all commits.*
+_Log commits._
+
+## **_Default_**
+
+```git
+git log HEAD
+```
 
 ## `git log file-name`
 

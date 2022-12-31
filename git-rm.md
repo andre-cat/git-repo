@@ -1,6 +1,6 @@
-# `git rm`
+# git rm
 
-*Remove file from staging area :pencil:.*
+_Remove file from staging area :pencil:._
 
 ## `git rm --cached file-name`
 

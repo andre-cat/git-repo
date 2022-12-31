@@ -1,6 +1,6 @@
 # `git checkout`
 
-*Switch the files in the working directory :open_file_folder: for those of a specific commit or branch.*
+_Switch the files in the working directory :open_file_folder: for those of a specific commit or branch._
 
 ## `git checkout name-branch`
 

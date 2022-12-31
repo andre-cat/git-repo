@@ -1,6 +1,6 @@
-# `git add`
+# git add
 
-*Add files to staging area.*
+_Add files to staging area._
 
 ## `git add --all` or `git add .`
 

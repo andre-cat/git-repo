@@ -1,6 +1,10 @@
 # `git show`
 
-*Shows the changes that all the files in the repository have had since last commit.*
+_Shows different entities._
+
+## **_Default_**
+
+Shows the changes that all the files in the repository have had since last commit.
 
 ## `git show file-name`
 
