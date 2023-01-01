@@ -2,7 +2,7 @@
 
 _Reset current **head**._
 
-## **_Default_**
+## **_Default:_**
 
 ```git
 git reset --mixed

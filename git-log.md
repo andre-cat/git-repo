@@ -2,7 +2,7 @@
 
 _Show commit logs._
 
-## **_Default_**
+## **_Default:_**
 
  > Show commit logs of the current branch:
 

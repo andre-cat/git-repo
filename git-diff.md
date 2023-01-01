@@ -12,7 +12,7 @@ _Compare changes between two entities._
 
 ## `git diff HEAD`
 
-Compare workspace :hammer_and_wrench: and local repository :page_with_curl::
+Compare workspace :hammer_and_wrench: and local history :page_with_curl::
 
 :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
 
@@ -20,7 +20,7 @@ Compare workspace :hammer_and_wrench: and local repository :page_with_curl::
 
 ## `git diff file-name`
 
-Same as default for a given file.
+The same as **default** but for a given file
 
 ## `git diff commit-code`
 

@@ -4,7 +4,7 @@ _Configure git settings._
 
 ## `git config user.name "user-name"`
 
-Configure username.
+Configure user name.
 
 ## `git config user.email "user-name@email.com"`
 

@@ -2,25 +2,21 @@
 
 _Switch workspace :hammer_and_wrench: with a branch or a commit._
 
-## **_Default_**
+## **_Default:_**
 
 > Switch workspace :hammer_and_wrench: with index :package:
 >
 > :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
 >
-> :arrow_up: :arrow_down:
->
-> :arrow_up: :arrow_left:
+> :two: &nbsp; :one:
 
 ## `git checkout HEAD`
 
-Switch workspace :hammer_and_wrench: with local repository :page_with_curl::
+Switch workspace :hammer_and_wrench: with local history :page_with_curl::
 
 :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
 
-:arrow_up: &nbsp; &nbsp; &nbsp;  :arrow_down:
-
-:arrow_up: :arrow_left: :arrow_left:
+:two: &nbsp; &nbsp; &nbsp; &nbsp; :one:
 
 ## `git checkout name-branch`
 
@@ -28,4 +24,5 @@ Switch workspace :hammer_and_wrench: with a given branch.
 
 ## `git checkout name-branch file-name`
 
-Switch a given wokspace :hammer_and_wrench: file with its another version in the given branch.
+`git checkout name-branch` for a given file.
+

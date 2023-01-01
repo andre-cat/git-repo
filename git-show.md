@@ -2,7 +2,7 @@
 
 _Shows different entities._
 
-## **_Default_**
+## **_Default:_**
 
 Shows the changes that all the files in the repository have had since last commit.
 
