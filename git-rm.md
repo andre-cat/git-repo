@@ -1,13 +1,13 @@
 # git rm
 
-_Remove file from staging area :pencil:._
+_Remove file from staging area :package:._
 
 ## `git rm --cached file-name`
 
-Remove the given file \(and keep it in the working directory :open_file_folder:\).
+Remove a given file \(and keep it in the working directory :hammer_and_wrench:\).
 
 ## `git rm --force file-name` [^f]
 
-Remove the given file from machine :wastebasket:.
+Remove a given file from machine :wastebasket:.
 
 [^f]: --force = -f

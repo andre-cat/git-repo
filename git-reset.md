@@ -1,6 +1,6 @@
 # `git reset`
 
-_Reset current head._
+_Reset current **head**._
 
 ## **_Default_**
 
@@ -10,8 +10,8 @@ git reset --mixed
 
 ## `git reset --hard`
 
-Reset working directory :open_file_folder: and staging area :pencil:.
+Reset working directory :hammer_and_wrench: and staging area :package:.
 
 ## `git reset --soft`
 
-Reset staging area :pencil:.
+Reset staging area :package:.

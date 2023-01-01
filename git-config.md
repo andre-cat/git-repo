@@ -6,7 +6,7 @@ _Configure git settings._
 
 Configure username.
 
-## `git config user.email "user-name@mail.com"`
+## `git config user.email "user-name@email.com"`
 
 Configure user email.
 
@@ -15,4 +15,4 @@ Configure user email.
 Show the list of all settings.
 
 [^flags]: Flags to configure:
-    - --global: set for all git bash.
+    - --global: set for all local repositories.

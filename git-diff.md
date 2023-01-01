@@ -1,19 +1,31 @@
 # `git diff`
 
-_Shows changes between two entities._
+_Compare changes between two entities._
 
 ## **_Default:_**
 
-> Shows this for working directory :open_file_folder: and staging area :pencil:.
+> Compare workspace :hammer_and_wrench: and index :package::
+>
+> :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+>
+> :mag_right: :mag_right:
+
+## `git diff HEAD`
+
+Compare workspace :hammer_and_wrench: and local repository :page_with_curl::
+
+:hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+
+:mag_right: &nbsp; &nbsp; &nbsp; :mag_right:
 
 ## `git diff file-name`
 
-Shows this for the given file.
+Same as default for a given file.
 
 ## `git diff commit-code`
 
-Shows this for the given commit.
+Compare between workspace :hammer_and_wrench: and a given commit.
 
 ## `git diff commit-code commit-code`
 
-Shows this between commits.
+Compare commits.

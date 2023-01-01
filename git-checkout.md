@@ -1,7 +1,27 @@
 # `git checkout`
 
-_Switch the files in the working directory :open_file_folder: for those of a specific commit or branch._
+_Switch workspace :hammer_and_wrench: with a branch or a commit._
+
+## **_Default_**
+
+> Switch workspace :hammer_and_wrench: with index :package:
+>
+> :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+>
+> :arrow_up: :arrow_down:
+>
+> :arrow_up: :arrow_left:
+
+## `git checkout HEAD`
+
+Switch workspace :hammer_and_wrench: with local repository :page_with_curl::
+
+:hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+
+:arrow_up: &nbsp; &nbsp; &nbsp;  :arrow_down:
+
+:arrow_up: :arrow_left: :arrow_left:
 
 ## `git checkout name-branch`
 
-Switch this for files in the given branch.
+Switch this with given branch.

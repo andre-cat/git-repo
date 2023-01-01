@@ -1,8 +1,10 @@
 # `git log`
 
-_Log commits._
+_Show commit logs._
 
 ## **_Default_**
+
+ > Show commit logs of the current branch:
 
 ```git
 git log HEAD
@@ -10,4 +12,4 @@ git log HEAD
 
 ## `git log file-name`
 
-Log this for the given file.
+Same as default for a given file.
