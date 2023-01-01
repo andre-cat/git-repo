@@ -8,7 +8,7 @@ _Switch workspace :hammer_and_wrench: with a branch or a commit._
 >
 > :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
 >
-> :two: &nbsp; :one:
+> &nbsp;:two: &nbsp; :one:
 
 ## `git checkout HEAD`
 
@@ -16,7 +16,7 @@ Switch workspace :hammer_and_wrench: with local history :page_with_curl::
 
 :hammer_and_wrench: :package: :page_with_curl: :earth_americas:
 
-:two: &nbsp; &nbsp; &nbsp; &nbsp; :one:
+&nbsp;:two: &nbsp; &nbsp; &nbsp; &nbsp;:one:
 
 ## `git checkout name-branch`
 

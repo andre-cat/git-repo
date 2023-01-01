@@ -1,6 +1,6 @@
 # `git reset`
 
-_Reset current **head**._
+_Reset current **HEAD** \(dangerous\)._
 
 ## **_Default:_**
 
@@ -8,10 +8,26 @@ _Reset current **head**._
 git reset --mixed
 ```
 
-## `git reset --hard`
-
-Reset working directory :hammer_and_wrench: and staging area :package:.
-
 ## `git reset --soft`
 
-Reset staging area :package:.
+**Uncommits** changes from local history :page_with_curl:; changes are left staged on index :package::
+
+:hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: :x:
+
+By default command is equivalent to:
+
+```git
+git reset --soft HEAD
+```
+
+Use `git reset --soft HEAD~n` to a commit n times backward.
+
+## `git reset --mixed`
+
+**Uncommits** changes from local history :page_with_curl: and **unstages** them from index :package:; changes are left staged on working directory :hammer_and_wrench:.
+
+:hammer_and_wrench: :package: :page_with_curl: :earth_americas:
+
+:heavy_check_mark: :x: :x:
