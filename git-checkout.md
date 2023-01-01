@@ -24,4 +24,8 @@ Switch workspace :hammer_and_wrench: with local repository :page_with_curl::
 
 ## `git checkout name-branch`
 
-Switch this with given branch.
+Switch workspace :hammer_and_wrench: with a given branch.
+
+## `git checkout name-branch file-name`
+
+Switch a given wokspace :hammer_and_wrench: file with its another version in the given branch.

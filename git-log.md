@@ -1,4 +1,4 @@
-# `git log`
+# `git log` [^flags]
 
 _Show commit logs._
 
@@ -13,3 +13,6 @@ git log HEAD
 ## `git log file-name`
 
 Same as default for a given file.
+
+[^flags]:
+    - --stat: detailed changes.
