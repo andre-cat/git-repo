@@ -6,7 +6,7 @@ _Show commit logs._
 
  > Show commit logs of the current branch:
 
-```git
+```bash
 git log HEAD
 ```
 
